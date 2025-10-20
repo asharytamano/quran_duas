@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://www.dropbox.com/scl/fi/9wddqrrcmhyh26ed74gfg/ChatGPT-Image-Oct-20-2025-10_24_02-AM.png?rlkey=pcrrxvwp4n5evmyihttc1bgzi&dl=0" width="100%" alt="Qur'anic Duas App Banner"/>
+</p>
+
+# 🕋 Qur'anic Duas App
+_A Heartfelt Collection of Supplications from the Holy Qur’an_
+
+
 # 🕋 Qur'anic Duas App
 
 A beautiful Flutter mobile app that compiles **all supplications (du‘ā)** found in the **Holy Qur’an**, organized by **Surah** and **theme** — presented in Arabic (Amiri font), English meaning, and transliteration.  
