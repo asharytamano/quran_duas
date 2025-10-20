@@ -1,0 +1,41 @@
+name: quran_duas
+description: A beautiful compilation of all Qur'anic duas, by Surah and theme.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  share_plus: ^10.0.2
+  flutter_svg: ^2.0.10+1
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/dua.png
+    - assets/data/                 # duas.json goes here
+    - assets/patterns/             # optional subtle background svgs
+
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri-Regular.ttf
+        - asset: assets/fonts/Amiri-Bold.ttf
+          weight: 700
+    - family: Merriweather
+      fonts:
+        - asset: assets/fonts/Merriweather-VariableFont_opsz,wdth,wght.ttf
+        - asset: assets/fonts/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf
+          style: italic

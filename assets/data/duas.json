@@ -1,0 +1,32 @@
+[
+  {
+    "surah_number": 1,
+    "surah_name_ar": "الفاتحة",
+    "surah_name_en": "Al-Fātiḥah",
+    "ayah": 5,
+    "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "transliteration": "Ihdinā ṣ-ṣirāṭ al-mustaqīm",
+    "translation_en": "Guide us to the Straight Path.",
+    "tags": ["guidance", "daily", "ṣalāh"]
+  },
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 201,
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanah wa fil-ākhirati ḥasanah wa qinā ʿadhāban-nār",
+    "translation_en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+    "tags": ["comprehensive", "protection"]
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 8,
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+    "transliteration": "Rabbanā lā tuzigh qulūbanā baʿda idh hadaytanā wa hab lanā min ladunka raḥmah innaka anta al-Wahhāb",
+    "translation_en": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself. Indeed, You are the Bestower.",
+    "tags": ["steadfastness", "mercy"]
+  }
+]
