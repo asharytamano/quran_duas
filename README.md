@@ -41,3 +41,69 @@ All data stored locally in `assets/data/duas.json` — no internet required.
 
 ## 🗂 Folder Structure
 
+lib/
+├─ core/
+│ ├─ theme.dart → App color scheme & typography
+│ ├─ router.dart → Page routing
+│ └─ utils.dart → JSON helpers
+├─ models/
+│ └─ dua.dart → Dua data model
+├─ providers/
+│ ├─ dua_provider.dart → Dua loading, search, favorites
+│ └─ settings_provider.dart → Dark mode, text scale
+├─ screens/
+│ ├─ splash_intro_screen.dart
+│ ├─ home_screen.dart
+│ └─ dua_detail_screen.dart
+└─ widgets/
+├─ arabic_text.dart
+├─ dua_card.dart
+└─ header_logo.dart
+
+## 🧾 Sample Data Format (`assets/data/duas.json`)
+
+```json
+[
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 201,
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanah wa fil-ākhirati ḥasanah wa qinā ʿadhāban-nār",
+    "translation_en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+    "tags": ["protection", "comprehensive"]
+  }
+]
+
+## 📸 Screenshots
+
+| Splash | Home (All Duas) |
+|:--:|:--:|
+| ![Splash Screen](https://www.dropbox.com/scl/fi/a458jbvgmj51lx3vovkmw/Splash.png?raw=1) | ![Home Screen (All Duas)](https://www.dropbox.com/scl/fi/djn2njfoynabcio7mwj40/Home_-All_Duas.png?raw=1) |
+
+| By Surah | Favorites |
+|:--:|:--:|
+| ![By Surah Screen](https://www.dropbox.com/scl/fi/6fxo2h7gbm2xwlkg6ppcf/By-Surah.png?raw=1) | ![Favorites](https://www.dropbox.com/scl/fi/549do4u216inldz1z35j7/Favorites.png?raw=1) |
+
+## ⚙️ How to Run
+flutter pub get
+flutter run
+
+Tested on Flutter 3.24+, Material 3 enabled.
+
+## 🧑‍💻 Author
+
+Ashary Tamano
+🌐 github.com/asharytamano
+
+## ☪️ Acknowledgment
+
+"And your Lord says: 'Call upon Me; I will respond to you.'"
+— Surah Ghāfir (40:60)
+
+This app is built with love and reverence, aiming to make Qur’anic supplications more accessible to every Muslim — for remembrance, reflection, and peace.
+
+🪴 License
+
+Released under the MIT License — free for all to use, modify, and share for the sake of knowledge and benefit.
