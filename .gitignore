@@ -1,0 +1,48 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+pubspec.lock
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/build/
+ios/Flutter/Generated.xcconfig
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Windows
+windows/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Other
+coverage/
+*.log
+*.tmp
+*.lock
+*.bak
+*.zip
+
+# Fonts or assets archives
+assets/fonts/*.zip
