@@ -60,6 +60,8 @@ lib/
 ├─ dua_card.dart
 └─ header_logo.dart
 
+---
+
 ## 🧾 Sample Data Format (`assets/data/duas.json`)
 
 ```json
@@ -76,28 +78,26 @@ lib/
   }
 ]
 
-## 📸 Screenshots
+📸 Screenshots
+Splash	Home (All Duas)
 
-| Splash | Home (All Duas) |
-|:--:|:--:|
-| ![Splash Screen](https://www.dropbox.com/scl/fi/a458jbvgmj51lx3vovkmw/Splash.png?raw=1) | ![Home Screen (All Duas)](https://www.dropbox.com/scl/fi/djn2njfoynabcio7mwj40/Home_-All_Duas.png?raw=1) |
+	
+By Surah	Favorites
 
-| By Surah | Favorites |
-|:--:|:--:|
-| ![By Surah Screen](https://www.dropbox.com/scl/fi/6fxo2h7gbm2xwlkg6ppcf/By-Surah.png?raw=1) | ![Favorites](https://www.dropbox.com/scl/fi/549do4u216inldz1z35j7/Favorites.png?raw=1) |
-
-## ⚙️ How to Run
+	
+⚙️ How to Run
 flutter pub get
 flutter run
 
+
 Tested on Flutter 3.24+, Material 3 enabled.
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 Ashary Tamano
 🌐 github.com/asharytamano
 
-## ☪️ Acknowledgment
+☪️ Acknowledgment
 
 "And your Lord says: 'Call upon Me; I will respond to you.'"
 — Surah Ghāfir (40:60)
