@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dropbox.com/scl/fi/9wddqrrcmhyh26ed74gfg/git_banner.png?rlkey=pcrrxvwp4n5evmyihttc1bgzi&dl=0" width="100%" alt="Qur'anic Duas App Banner"/>
+  <img src="banner.png" width="100%" alt="Qur'anic Duas App Banner"/>
 </p>
 
 # 🕋 Qur'anic Duas App
