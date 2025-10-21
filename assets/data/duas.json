@@ -4,29 +4,283 @@
     "surah_name_ar": "الفاتحة",
     "surah_name_en": "Al-Fātiḥah",
     "ayah": 5,
-    "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
-    "transliteration": "Ihdinā ṣ-ṣirāṭ al-mustaqīm",
-    "translation_en": "Guide us to the Straight Path.",
-    "tags": ["guidance", "daily", "ṣalāh"]
+    "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "guidance",
+      "daily",
+      "salah"
+    ],
+    "audio": "1_5.mp3"
+  },
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 127,
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Rabbana Taqabbal Minna Innaka Antas Samee-u’l A’leem",
+    "translation_en": "Our Lord! accept from us; surely Thou art the Hearing, the Knowing.” (Sura al-Baqara, 2:127)",
+    "tags": [
+      "acceptance",
+      "ibrahim",
+      "construction"
+    ],
+    "audio": "2_127.mp3"
+  },
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 128,
+    "arabic": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "transliteration": "",
+    "translation_en": "Our Lord! Make us both ˹fully˺ submit to You1 and from our descendants a nation that will submit to You. Show us our rituals, and turn to us in grace. You are truly the Accepter of Repentance, Most Merciful.",
+    "tags": [
+      "submission",
+      "repentance"
+    ],
+    "audio": "2_128.mp3"
   },
   {
     "surah_number": 2,
     "surah_name_ar": "البقرة",
     "surah_name_en": "Al-Baqarah",
     "ayah": 201,
-    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
-    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanah wa fil-ākhirati ḥasanah wa qinā ʿadhāban-nār",
-    "translation_en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
-    "tags": ["comprehensive", "protection"]
+    "arabic": "ومنهم من يقول ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار",
+    "transliteration": "",
+    "translation_en": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\"",
+    "tags": [
+      "comprehensive",
+      "protection"
+    ],
+    "audio": "2_201.mp3"
+  },
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 250,
+    "arabic": "ولما برزوا لجالوت وجنوده قالوا ربنا أفرغ علينا صبرا وثبت أقدامنا وانصرنا على القوم الكافرين",
+    "transliteration": "",
+    "translation_en": "And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\"",
+    "tags": [
+      "patience",
+      "victory",
+      "steadfastness"
+    ],
+    "audio": "2_250.mp3"
+  },
+  {
+    "surah_number": 2,
+    "surah_name_ar": "البقرة",
+    "surah_name_en": "Al-Baqarah",
+    "ayah": 286,
+    "arabic": "2|286|لا يكلف الله نفسا إلا وسعها ۚ لها ما كسبت وعليها ما اكتسبت ۗ ربنا لا تؤاخذنا إن نسينا أو أخطأنا ۚ ربنا ولا تحمل علينا إصرا كما حملته على الذين من قبلنا ۚ ربنا ولا تحملنا ما لا طاقة لنا به ۖ واعف عنا واغفر لنا وارحمنا ۚ أنت مولانا فانصرنا على القوم الكافرين",
+    "transliteration": "",
+    "translation_en": "2|286|Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+    "tags": [
+      "forgiveness",
+      "mercy",
+      "burden"
+    ],
+    "audio": "2_286.mp3"
   },
   {
     "surah_number": 3,
     "surah_name_ar": "آل عمران",
     "surah_name_en": "Āl ʿImrān",
     "ayah": 8,
-    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
-    "transliteration": "Rabbanā lā tuzigh qulūbanā baʿda idh hadaytanā wa hab lanā min ladunka raḥmah innaka anta al-Wahhāb",
-    "translation_en": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself. Indeed, You are the Bestower.",
-    "tags": ["steadfastness", "mercy"]
+    "arabic": "ربنا لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك رحمة ۚ إنك أنت الوهاب",
+    "transliteration": "",
+    "translation_en": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.\"",
+    "tags": [
+      "steadfastness",
+      "mercy"
+    ],
+    "audio": "3_8.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 9,
+    "arabic": "ربنا إنك جامع الناس ليوم لا ريب فيه ۚ إن الله لا يخلف الميعاد",
+    "transliteration": "",
+    "translation_en": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.",
+    "tags": [
+      "promise",
+      "resurrection"
+    ],
+    "audio": "3_9.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 16,
+    "arabic": "الذين يقولون ربنا إننا آمنا فاغفر لنا ذنوبنا وقنا عذاب النار",
+    "transliteration": "",
+    "translation_en": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\"",
+    "tags": [
+      "forgiveness",
+      "protection"
+    ],
+    "audio": "3_16.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 26,
+    "arabic": "3|26|قل اللهم مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء ۖ بيدك الخير ۖ إنك على كل شيء قدير",
+    "transliteration": "",
+    "translation_en": "Say, \"O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.\"",
+    "tags": [
+      "sovereignty",
+      "gratitude"
+    ],
+    "audio": "3_26.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 27,
+    "arabic": "3|27|تولج الليل في النهار وتولج النهار في الليل ۖ وتخرج الحي من الميت وتخرج الميت من الحي ۖ وترزق من تشاء بغير حساب",
+    "transliteration": "",
+    "translation_en": "You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.",
+    "tags": [
+      "provision",
+      "mercy"
+    ],
+    "audio": "3_27.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 38,
+    "arabic": "هنالك دعا زكريا ربه ۖ قال رب هب لي من لدنك ذرية طيبة ۖ إنك سميع الدعاء",
+    "transliteration": "",
+    "translation_en": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
+    "tags": [
+      "offspring",
+      "family"
+    ],
+    "audio": "3_38.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 53,
+    "arabic": "",
+    "transliteration": "ربنا آمنا بما أنزلت واتبعنا الرسول فاكتبنا مع الشاهدين",
+    "translation_en": "Our Lord, we have believed in what You revealed and have followed the messenger Jesus, so register us among the witnesses [to truth].",
+    "tags": [
+      "belief",
+      "acceptance"
+    ],
+    "audio": "3_53.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 147,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "patience",
+      "steadfastness",
+      "forgiveness"
+    ],
+    "audio": "3_147.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 191,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "reflection",
+      "protection"
+    ],
+    "audio": "3_191.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 193,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "forgiveness",
+      "guidance"
+    ],
+    "audio": "3_193.mp3"
+  },
+  {
+    "surah_number": 3,
+    "surah_name_ar": "آل عمران",
+    "surah_name_en": "Āl ʿImrān",
+    "ayah": 194,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "promise",
+      "forgiveness"
+    ],
+    "audio": "3_194.mp3"
+  },
+  {
+    "surah_number": 4,
+    "surah_name_ar": "النساء",
+    "surah_name_en": "An-Nisā’",
+    "ayah": 75,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "deliverance",
+      "oppressed"
+    ],
+    "audio": "4_75.mp3"
+  },
+  {
+    "surah_number": 4,
+    "surah_name_ar": "النساء",
+    "surah_name_en": "An-Nisā’",
+    "ayah": 66,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "forgiveness"
+    ],
+    "audio": "4_66.mp3"
+  },
+  {
+    "surah_number": 5,
+    "surah_name_ar": "المائدة",
+    "surah_name_en": "Al-Mā’idah",
+    "ayah": 83,
+    "arabic": "",
+    "transliteration": "",
+    "translation_en": "",
+    "tags": [
+      "faith",
+      "tears"
+    ],
+    "audio": "5_83.mp3"
   }
 ]
