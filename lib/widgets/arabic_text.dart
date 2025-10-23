@@ -14,6 +14,7 @@ class ArabicText extends StatelessWidget {
       child: SelectableText(
         text,
         textAlign: align,
+        textDirection: TextDirection.rtl, // ✅ Right-to-left
         style: base.copyWith(
           fontFamily: 'Amiri',
           fontSize: fontSize ?? base.fontSize,
