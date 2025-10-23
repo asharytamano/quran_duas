@@ -32,7 +32,6 @@ class DuaProvider extends ChangeNotifier {
       return d.surahNameEn.toLowerCase().contains(s) ||
           d.surahNameAr.contains(q) ||
           d.arabic.contains(q) ||
-          d.transliteration.toLowerCase().contains(s) ||
           d.translationEn.toLowerCase().contains(s) ||
           d.tags.any((t) => t.toLowerCase().contains(s));
     }).toList();
