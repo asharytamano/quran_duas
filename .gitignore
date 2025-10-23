@@ -48,3 +48,4 @@ coverage/
 assets/fonts/*.zip
 lib/main0.dart
 lib/providers/dua_provider0.dart
+lib/screens/home_screen0.dart
