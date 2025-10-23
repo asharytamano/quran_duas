@@ -39,8 +39,6 @@ class _HomeScreenState extends State<HomeScreen> {
           final d = list[i - 1];
           return DuaCard(
             dua: d,
-            isFavorite: duaProv.isFavorite(d),
-            onToggleFav: () => duaProv.toggleFavorite(d),
             onTap: () => Navigator.pushNamed(context, AppRouter.duaDetail, arguments: d),
           );
         },
@@ -66,8 +64,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 final d = groups[k]![idx];
                 return DuaCard(
                   dua: d,
-                  isFavorite: duaProv.isFavorite(d),
-                  onToggleFav: () => duaProv.toggleFavorite(d),
                   onTap: () => Navigator.pushNamed(context, AppRouter.duaDetail, arguments: d),
                 );
               },
@@ -98,8 +94,6 @@ class _HomeScreenState extends State<HomeScreen> {
           final d = favs[i - 1];
           return DuaCard(
             dua: d,
-            isFavorite: true,
-            onToggleFav: () => context.read<DuaProvider>().toggleFavorite(d),
             onTap: () => Navigator.pushNamed(context, AppRouter.duaDetail, arguments: d),
           );
         },
