@@ -4,8 +4,8 @@ class Dua {
   final String surahNameEn;
   final int ayah;
   final String arabic;
-  final String transliteration;
   final String translationEn;
+  final String audio;
   final List<String> tags;
 
   Dua({
@@ -14,19 +14,19 @@ class Dua {
     required this.surahNameEn,
     required this.ayah,
     required this.arabic,
-    required this.transliteration,
     required this.translationEn,
+    required this.audio,
     required this.tags,
   });
 
   factory Dua.fromMap(Map<String, dynamic> m) => Dua(
-    surahNumber: m['surah_number'],
-    surahNameAr: m['surah_name_ar'],
-    surahNameEn: m['surah_name_en'],
-    ayah: m['ayah'],
-    arabic: m['arabic'],
-    transliteration: m['transliteration'],
-    translationEn: m['translation_en'],
-    tags: (m['tags'] as List).map((e) => e.toString()).toList(),
-  );
+        surahNumber: m['surah_number'],
+        surahNameAr: m['surah_name_ar'],
+        surahNameEn: m['surah_name_en'],
+        ayah: m['ayah'],
+        arabic: m['arabic'],
+        translationEn: m['translation_en'],
+        audio: m['audio'],
+        tags: (m['tags'] as List).map((e) => e.toString()).toList(),
+      );
 }
