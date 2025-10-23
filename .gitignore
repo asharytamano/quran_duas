@@ -47,3 +47,4 @@ coverage/
 # Fonts or assets archives
 assets/fonts/*.zip
 lib/main0.dart
+lib/providers/dua_provider0.dart
